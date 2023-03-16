@@ -1,0 +1,182 @@
+[
+    {
+        "id": "casco-01",
+        "titulo": "Casco Mandaloriano - Boba Fett",
+        "imagen": "./img/cascos/bobaFett.jpg",
+        "categoria": {
+            "nombre": "Cascos",
+            "id": "cascos"
+        },
+        "precio": 15000
+    },
+    {
+        "id": "casco-02",
+        "titulo": "Casco Mandaloriano - Bo-Katan Kryze",
+        "imagen": "./img/cascos/boKatanKryze.jpg",
+        "categoria": {
+            "nombre": "Cascos",
+            "id": "cascos"
+        },
+        "precio": 18000
+    },
+    {
+        "id": "abcascorigo-03",
+        "titulo": "Casco Darth Vader",
+        "imagen": "./img/cascos/darthVader.jpg",
+        "categoria": {
+            "nombre": "Cascos",
+            "id": "cascos"
+        },
+        "precio": 19000
+    },
+    {
+        "id": "casco-04",
+        "titulo": "Casco Mandaloriano - The Mandalorian",
+        "imagen": "./img/cascos/dinDjarin.jpg",
+        "categoria": {
+            "nombre": "Cascos",
+            "id": "cascos"
+        },
+        "precio": 20000
+    },
+    {
+        "id": "casco-05",
+        "titulo": "Casco de Piloto - Luke Skywalker",
+        "imagen": "./img/cascos/LukeSkywalker.jpg",
+        "categoria": {
+            "nombre": "Cascos",
+            "id": "cascos"
+        },
+        "precio": 16000
+    },
+    {
+        "id": "figura-01",
+        "titulo": "Figura Boba Fett and Throne",
+        "imagen": "./img/figuras/bobaFettAndThrone.jpg",
+        "categoria": {
+            "nombre": "Figuras",
+            "id": "figuras"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "figura-02",
+        "titulo": "Figura Bo-Katan Kryze",
+        "imagen": "./img/figuras/boKatanKryze.jpeg",
+        "categoria": {
+            "nombre": "Figuras",
+            "id": "figuras"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "figura-03",
+        "titulo": "Figura Capitan Rex",
+        "imagen": "./img/figuras/capitanRex.jpg",
+        "categoria": {
+            "nombre": "Figuras",
+            "id": "figuras"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "figura-04",
+        "titulo": "Figura Darth Maul",
+        "imagen": "./img/figuras/darthMaul.jpg",
+        "categoria": {
+            "nombre": "Figuras",
+            "id": "figuras"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "figura-05",
+        "titulo": "Figura The Mandalorian and The Child",
+        "imagen": "./img/figuras/dinDjarinAndGrogu.jpg",
+        "categoria": {
+            "nombre": "Figuras",
+            "id": "figuras"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "figura-06",
+        "titulo": "Figura Clon Hunter",
+        "imagen": "./img/figuras/hunter.jpeg",
+        "categoria": {
+            "nombre": "Figuras",
+            "id": "figuras"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "figura-07",
+        "titulo": "Figura Obi-Wan Kenobi",
+        "imagen": "./img/figuras/obiWanKenobi.jpg",
+        "categoria": {
+            "nombre": "Figuras",
+            "id": "figuras"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "figura-08",
+        "titulo": "Figura Purge Trooper Imperial",
+        "imagen": "./img/figuras/purgeTrooper.jpeg",
+        "categoria": {
+            "nombre": "Figuras",
+            "id": "figuras"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "funkoPop-01",
+        "titulo": "Funko Pop Star Wars - Ahsoka Tano",
+        "imagen": "./img/funkoPops/ahsokaTano.jpg",
+        "categoria": {
+            "nombre": "FunkoPop",
+            "id": "funkoPop"
+        },
+        "precio": 6000
+    },
+    {
+        "id": "funkoPop-02",
+        "titulo": "Funko Pop Star Wars - Cal Kestis",
+        "imagen": "./img/funkoPops/calKestis.jpg",
+        "categoria": {
+            "nombre": "FunkoPop",
+            "id": "funkoPop"
+        },
+        "precio": 6000
+    },
+    {
+        "id": "funkoPop-03",
+        "titulo": "Funko Pop Star Wars - Darth Vader",
+        "imagen": "./img/funkoPops/darthVader.jpg",
+        "categoria": {
+            "nombre": "FunkoPop",
+            "id": "funkoPop"
+        },
+        "precio": 6000
+    },
+    {
+        "id": "funkoPop-04",
+        "titulo": "Funko Pop Star Wars - Luke Skywalker",
+        "imagen": "./img/funkoPops/lukeSkywalker.jpg",
+        "categoria": {
+            "nombre": "FunkoPop",
+            "id": "funkoPop"
+        },
+        "precio": 6000
+    },
+    {
+        "id": "funkoPop-05",
+        "titulo": "Funko Pop Star Wars - Sabine Wren",
+        "imagen": "./img/funkoPops/sabineWren.jpg",
+        "categoria": {
+            "nombre": "FunkoPop",
+            "id": "funkoPop"
+        },
+        "precio": 6000
+    }
+]
